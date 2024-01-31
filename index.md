@@ -1,5 +1,5 @@
 ---
-title: __Welcome to my blog__
+title: "Welcome to my blog"
 date : 2024-01-31 
 ---
 
